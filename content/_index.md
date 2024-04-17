@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
+      title: Unlock the Power of AI. Learn from Experts. Shape the Future.
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Get Started

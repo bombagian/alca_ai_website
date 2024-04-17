@@ -5,17 +5,17 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
+  mode: system
+  color: zinc
 
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,6 +43,7 @@ header:
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
+    
 
 # Site footer
 footer:
